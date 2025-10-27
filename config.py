@@ -1,0 +1,5 @@
+TELEGRAM_TOKEN = 'YOUR_TOKEN_HERE'
+DB_NAME = 'your_database_name_here'
+DB_USER = 'database_user__usually_postgres'
+DB_PASSWORD = 'database_password'
+DB_HOST = 'database_server__usually_localhost'
